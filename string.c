@@ -16,7 +16,8 @@ int main()
    char* s[]= {
            "Git tutorials",
            "Tutorials Point",
-           "add different string"
+           "add different string",
+           "add a new string"
           };
 
    for (int i=0;i<2;i++)
